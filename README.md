@@ -65,6 +65,3 @@ node src/seed.js
     - `node_modules/`: Backend dependencies.
 - `frontend/`: React frontend application.
 
-## API Documentation
-
-[Postman Collection](https://yashdaharwal27-958246.postman.co/workspace/Suyash-Daharwal's-Workspace~c913dfc1-8583-4551-8d33-582d5aee05cb/collection/50136839-78b5c9b7-9fe4-4c9e-91a3-0b64247355e1?action=share&creator=50136839&active-environment=50136839-56800efe-6c0d-452d-bed0-ddfe030acc0a)
