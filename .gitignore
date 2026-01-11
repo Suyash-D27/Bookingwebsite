@@ -5,6 +5,9 @@ node_modules/
 .env
 .env.local
 .env.*.local
+.env.development
+.env.test
+.env.production
 
 # Logs
 logs/
@@ -22,6 +25,16 @@ pids/
 # Testing
 coverage/
 
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Project specific
+planning/
+artifacts/
